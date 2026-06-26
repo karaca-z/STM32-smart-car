@@ -28,8 +28,8 @@ Bu proje, Mikroişlemciler dersi kapsamında STM32F411VET6 mikrodenetleyicisi ve
 
 ### Robot Köpek Tasarımı
 <p align="left">
-  <img src="robot-köpek-foto1.jpeg" width="300" />
-  <img src="robot-köpek-foto2.jpeg" width="300" />
+  <img src="robot-kopek-foto1.jpeg" width="300" />
+  <img src="robot-kopek-foto2.jpeg" width="300" />
 </p>
 
 ### STM32 Pin Dizilimi
